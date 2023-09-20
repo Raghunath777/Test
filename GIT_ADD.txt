@@ -1,0 +1,8 @@
+BEGIN
+ UTL_FILE.FRENAME ('C:\Users\PediniR',
+ 'sql_plus.txt',
+ 'C:\Users\PediniR\Project',
+ 'new_sql_plus.txt',
+ TRUE);
+END
+----------------------------------------------------
